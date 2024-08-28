@@ -62,6 +62,7 @@ WORDCHARS=${WORDCHARS//\/[&.;]}                                 # Don't consider
 alias la="eza -la --icons=always --sort=type"
 alias vim="nvim"
 alias vi="nvim"
+alias cat="bat"
 
 
 # ZSH Plugin manager Antidode
