@@ -1,6 +1,6 @@
-# Z:large_blue_circle:f
+# Z🟢files
 
- files. Take it or leave it.
+🟢files. Take it or leave it.
 
 ## Requirements
 First install some required stuff in order to use zsh, tmux and nvim.
