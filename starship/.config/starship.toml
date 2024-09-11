@@ -13,7 +13,6 @@ $git_branch\
 $git_status\
 [](fg:#3a95c7)\
 $fill\
-[](fg:base02)\
 $golang\
 $python\
 $rust\
@@ -21,11 +20,6 @@ $lua\
 $nim\
 $rust\
 $zig\
-[ ](fg:#073642 bg:green)\
-$azure\
-$aws\
-
-[](fg:green)\
 $line_break\
 $character """
 

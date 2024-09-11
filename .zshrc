@@ -68,7 +68,7 @@ alias cat="bat"
 alias gc='git commit'
 alias gco='git checkout'
 alias ga='git add'
-
+alias gst='git status'
 # ZSH Plugin manager Antidode
 #
 
