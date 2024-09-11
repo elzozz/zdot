@@ -15,7 +15,7 @@ fi
 
 # Export .config dir. For some reason WSL Ubuntu does not have it...
 #
-export XDG_CONFIG_HOME=$HOME/.config/
+export XDG_CONFIG_HOME=$HOME/.config
 
 # set paths for zsh
 path=(
