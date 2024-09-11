@@ -64,6 +64,10 @@ alias vim="nvim"
 alias vi="nvim"
 alias cat="bat"
 
+# GIT ALIASES -----------------------------------------------------------------
+alias gc='git commit'
+alias gco='git checkout'
+alias ga='git add'
 
 # ZSH Plugin manager Antidode
 #
